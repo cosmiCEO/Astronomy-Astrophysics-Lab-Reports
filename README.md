@@ -14,3 +14,5 @@ to understand the manual plight of original astronomers, but after the first few
 excel, python - specifically the pandas library and other useful imports, matlab, and more. Though these are limited in the results and don't entirely encompass the work I've put into,
 I am happy to answer questions or share more of the data/code/etc. that went into this upon request - but for respect of Dr. Sowell and this class he is developing, I do not want to publicly post any more information
 that could encourage future students to not put in their own hard work to get the most out of this class.
+
+Additionally, I have included a separate work from Dr. Sowell's previous class - one of my favorite projects I've had in the entire four years I have spent at Georgia Tech. This is one of my first attempts at great science communication and working with data, and I am so happy to share it.
